@@ -1,0 +1,3 @@
+cmd :
+bundle
+bundle exec Jekyll s
