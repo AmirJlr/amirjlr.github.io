@@ -1,9 +1,10 @@
 ---
 title: "Hello World"
-date: 2025-02-28 13:30 
+date: 2025-02-28
 categories: [Intro]
 tags: [data, graphs]
 ---
+
 
 # Hello World
 
